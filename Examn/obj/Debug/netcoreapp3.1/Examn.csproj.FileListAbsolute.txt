@@ -1,0 +1,13 @@
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\bin\Debug\netcoreapp3.1\Examn.exe
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\bin\Debug\netcoreapp3.1\Examn.deps.json
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\bin\Debug\netcoreapp3.1\Examn.runtimeconfig.json
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\bin\Debug\netcoreapp3.1\Examn.runtimeconfig.dev.json
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\bin\Debug\netcoreapp3.1\Examn.dll
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\bin\Debug\netcoreapp3.1\Examn.pdb
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\obj\Debug\netcoreapp3.1\Examn.csprojAssemblyReference.cache
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\obj\Debug\netcoreapp3.1\Examn.AssemblyInfoInputs.cache
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\obj\Debug\netcoreapp3.1\Examn.AssemblyInfo.cs
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\obj\Debug\netcoreapp3.1\Examn.csproj.CoreCompileInputs.cache
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\obj\Debug\netcoreapp3.1\Examn.dll
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\obj\Debug\netcoreapp3.1\Examn.pdb
+D:\Data\Documents\Schoolwerk\git kk\sd20-csharp-popquiz-rkarabicek\Examn\obj\Debug\netcoreapp3.1\Examn.genruntimeconfig.cache
